@@ -115,12 +115,12 @@ Go to the [Musiio by SoundCloud Public API workspace](https://www.postman.com/so
 
 The workspace contains the:
 
-[Tag API V1 Postman Collection](https://www.postman.com/soundcloud-musiio/workspace/musiio-by-soundcloud-public-api-workspace/collection/29141210-8cee2d19-5b14-4497-a931-3e72a50c85eb?action=share&creator=29141210)
+[Search API V2 Postman Collection](https://www.postman.com/soundcloud-musiio/workspace/musiio-by-soundcloud-public-api-workspace/collection/29141210-248030f5-0ceb-4cf9-bfcf-17f1b4d708d7?action=share&creator=29141210)
 
 ## How to use the Postman Collection
 
 1. Open the Postman app or web version
-2. In a browser go to [Tag API V1 Postman Collection](https://www.postman.com/soundcloud-musiio/workspace/musiio-by-soundcloud-public-api-workspace/collection/29141210-8cee2d19-5b14-4497-a931-3e72a50c85eb?action=share&creator=29141210)
+2. In a browser go to [Search API V2 Postman Collection](https://www.postman.com/soundcloud-musiio/workspace/musiio-by-soundcloud-public-api-workspace/collection/29141210-248030f5-0ceb-4cf9-bfcf-17f1b4d708d7?action=share&creator=29141210)
 3. In the overview tab, scroll down and click the 'Run in Postman' button
 
 ![Alt text](image.png)
