@@ -21,7 +21,7 @@ Musiio Search Code Sample (./samples/)
 
 [Postman Collection](#postman-collection)
 
-* [How to set up postman samples](#how-to-set-up-postman-samples)
+* [How to use the Postman collection](##how-to-use-the-postman-collection)
 * [Add Track](#add-track)
 * [Update Track](#update-track)
 * [Get Track](#get-track)
